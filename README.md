@@ -6,5 +6,3 @@ The Password Strength Evaluator with GUI is an impressive Python project that sh
 The project focuses on evaluating the strength of passwords entered by users and providing detailed feedback on their security. It employs the industry-standard SHA-256 hashing algorithm to generate secure password hashes. The GUI interface adds a visually appealing and intuitive user experience, making it accessible to a wide range of users.
 
 The application guides users to enter a password and confirm it, ensuring accuracy. Upon evaluation, the system analyzes the password's strength using various criteria, such as length, character types, and special characters. The feedback is displayed in real-time within the GUI, providing users with clear and concise information about their password's weaknesses or strengths.
-
-To make it even more impressive, the project incorporates dynamic features such as instant feedback updates, disabled fields for read-only results, and the display of the SHA-256 hash for strong passwords. This demonstrates a high level of technical proficiency and attention to detail in GUI development.
